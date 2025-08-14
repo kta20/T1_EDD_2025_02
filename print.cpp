@@ -12,6 +12,18 @@ struct Dato{
     unsigned short VTR;   
 };
 
+void Menú(){
+
+    std::cout << 
+        "1) Agregar un alumno." <<
+        "2) Obtener promedio de un estudiante." << 
+        "3) Obtener por evaluación de una asignatura." <<
+        "4) Obtener los cursos en los que está inscrito un estudiante." <<
+        "5) Obtener los reprobados de un curso con cierto VTR" <<
+        "6) Generar informe por cursos." <<
+        "0) Salir del programa." <<
+        "Ingrese su opción: ";  
+}
 
 void Mostrar_Datos_Alumno(Dato* datos, int tamanio){
 

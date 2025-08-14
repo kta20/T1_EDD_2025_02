@@ -16,16 +16,16 @@ struct Dato{
 void Mostrar_Datos_Alumno(Dato* datos, int tamanio){
 
     /*
-    /    Descripción: 
-    /            Imprimir por consola los datos cargados en el parametro 'datos', mostrando los primeros 5 o menos en caso de que 'tamanio' sea menor a 5.
-    /
-    /    Parametros:
-    /            Dato* datos: Puntero/arreglo que contiene los datos a querer mostrar.
-    /            int tamanio: Tamaño del arreglo.
-    /    
-    /    Retorno:
-    /            Función tipo void, no retorna nada.
-    /    
+    *    Descripción: 
+    *            Imprimir por consola los datos cargados en el parametro 'datos', mostrando los primeros 5 o menos en caso de que 'tamanio' sea menor a 5.
+    *
+    *    Parametros:
+    *            Dato* datos: Puntero/arreglo que contiene los datos a querer mostrar.
+    *            int tamanio: Tamaño del arreglo.
+    *    
+    *    Retorno:
+    *            Función tipo void, no retorna nada.
+    *    
     */
     
     std::cout << std::left 

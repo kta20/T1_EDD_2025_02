@@ -33,5 +33,5 @@ notarán que encontrarán muchas más funcionalidades de Github para proyectos, 
 
 Estas son las versiones que usé al momento de escribir este README.
 
-Como pueden ver, markdown es mucho mejor para escribir el readme que un .txt. En este ejemplo no está todo el potencial, eso es tarea para ustedes.
+Como pueden ver, markdown es mucho mejor para escribir el readme que un .txt. En este ejemplo no está todo el potencial, eso es tarea para ustedes. ola
 
